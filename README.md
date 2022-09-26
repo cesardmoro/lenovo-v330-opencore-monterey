@@ -61,7 +61,7 @@
   - WhateverGreen v1.5.8.
 
 ### Drivers
-Taken from OpenCore v0.7.9 Release.
+Taken from OpenCore v0.8.4 Debug.
 
 - AudioDxe.efi (required only for the Boot Chime).
 - HfsPlus.efi.
