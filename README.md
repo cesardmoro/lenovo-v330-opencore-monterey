@@ -42,7 +42,7 @@
 
  - macOS Monterey .app downloaded right from the App Store or anywhere else. Create a USB media from it (make sure to select GUID while formatting it in HFS+).
  - This copy of OpenCore which at the time of writing this, is the latest (v0.84).
- - ProperTree or similar to modify property list (config.plist).
+ - Opencore configurator or ProperTree or similar to modify property list (config.plist). *(Do not autoimport kext or will stuck at boot)*
  - GenSMBIOS to get DeviceProperties for your "MacBookPro" (You must modify it in your config.plist, I suggest MacBookPro16,1 or MacBookPro15,1).
  - MountEFI to mount your device's EFI partition and copy the bootloader.
  - The latest version of all the kexts requiered for this laptop.
