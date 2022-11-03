@@ -91,14 +91,14 @@ From dortania's repository.
  - Sleep.
  - Battery indicator.
  - Boot Chime.
+ - Bluetooth 
+ - Function keys 
 
 ## What won't work
-  - Touchpad 
-  - HDMI port (It works great but the integrated display will go black. If you find a solution please let me know).
-  - Bluetooth (Detected, But won't turn on)
+  - Touchpad (tried everthing, it works only on pooling mode, not recomended becouse of cpu usage)
+  - HDMI port 
   - Fingerprint Reader.
   - SD Card Reader (I haven't tried to make it work).
-  - Function keys (I did not attempt to remap the keys).
 
 
 ## Credits
